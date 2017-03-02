@@ -1,0 +1,80 @@
+body{
+  background-color:white;
+  margin-left: auto;
+  margin-right: auto;
+}
+.banner{
+   background:url(../img/flower.jpg) no-repeat; 
+   width: 1300px;
+   height:100px;
+}
+#head{
+  font-size: 55px;
+  text-align: center;
+  font-family: sofia;
+
+}
+.container_12{
+  align-content: center;
+  background-color:white;
+  }
+header h1{
+  padding-top: 10px;
+  float: left;
+  font-size: 40px;
+  color:black;
+  font-family: sofia;
+  text-decoration: underline;
+}
+.main{
+  padding-top: 20px;
+}
+.main1{
+  padding-top: 10px;
+}
+nav{
+  padding-top: 30px;
+  float: right;
+}
+nav li{
+  display: inline;
+  line-height:38px;
+  position:relative;
+  margin-right: 40px;
+}
+nav li a{
+  text-decoration: none;
+  font-size: 20px;
+  margin-left: -30px;
+
+}
+a:hover{
+  text-decoration: underline;
+  color: green;
+}
+#sec1{
+  font-size: 20px;
+  font-family: sofia;
+  color: black;
+  width: 950px;
+}
+#style{
+  border: solid 1px;
+  border-color: gray;
+
+}
+.grid_6{
+  line-height: 30px;
+  font-size: 16px;
+  font-family: cursive;
+}
+#f{
+  background-color: gray;
+}
+#foot{
+  float:right;
+  line-height: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 15px;
+}
